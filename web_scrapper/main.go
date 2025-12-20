@@ -112,7 +112,7 @@ func main() {
 	calisilan_yer, _ := os.Getwd()
 	resim_yolu := calisilan_yer + "\\screenshot.png"
 
-	var edgeYolu = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+	var edgeYolu = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe" //eğer msedge.exe yolu farklıysa bu kısmı değiştirin
 
 	fmt.Println("Edge bulundu")
 
