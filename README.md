@@ -11,3 +11,6 @@ komutuyla indirebilirsiniz. <br>
 Toolu çalıştırmak için CMD  ekranında <br>
 go run main.go  <br>
 komutunu girerek çalıştırabilirsiniz.
+
+
+NOT: kodun default ayarlarında bir windows makinede çalıştırıldığı varsayılarak MSEDGE yolu   C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe  olarak verilmiştir. Eğer MSEDGE yolunun farklı olduğunu düşünüyorsanız 115. satırdaki kodu değiştirmeniz gerekmektedir.
